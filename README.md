@@ -1,5 +1,5 @@
 - 👋 Hi, we’re @yesterdayslunchbox
-- 👀 We're a rock-oriented band from Houston, Texas
+- 👀 We're a shoegaze band from Houston, Texas
 - 🌱 Our guitarist and backup vocalist Cru runs this GitHub for our website
 - 📫 You can contact us on Instagram @yesterdayslunchbox or at yesterdayslunchbox@gmail.com
 
